@@ -1,0 +1,7 @@
+need_to_communicate_with_web: true
+secret_to_web: somePassword
+web_ip_or_address: localhost
+web_port: 50478
+method: Results/PushResult
+log_method: Results/PushLog
+status_method: Results/SayStatus
