@@ -1,0 +1,6 @@
+Aggro_bot:Buggy_spamming_bot:group:D
+Aggro_bot:Correct_bot:group:D
+Aggro_bot:Standing_bot:group:D
+Buggy_spamming_bot:Standing_bot:group:D
+Buggy_spamming_bot:Correct_bot:group:D
+Correct_bot:Standing_bot:group:D
